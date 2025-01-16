@@ -1,0 +1,126 @@
+[21:12:52] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:12:53] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[21:12:55] [Worker-Main-1/INFO]: Loaded 7 recipes
+[21:12:58] [Server thread/INFO]: Starting minecraft server version 1.18
+[21:12:58] [Server thread/INFO]: Loading properties
+[21:12:59] [Server thread/INFO]: This server is running Paper version git-Paper-66 (MC: 1.18) (Implementing API version 1.18-R0.1-SNAPSHOT) (Git: dce79f3)
+[21:12:59] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:12:59] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:12:59] [Server thread/INFO]: Default game type: SURVIVAL
+[21:12:59] [Server thread/INFO]: Generating keypair
+[21:12:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:12:59] [Server thread/INFO]: Using epoll channel type
+[21:12:59] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[21:12:59] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[21:13:01] [Server thread/INFO]: [ClearLag] Loading ClearLag v3.2.2
+[21:13:01] [Server thread/INFO]: [spark] Loading spark v1.10.119
+[21:13:01] [Server thread/INFO]: [connect] Loading connect v0.5.0
+[21:13:04] [Server thread/WARN]: [connect] en_ is not a supported language.
+[21:13:04] [Server thread/INFO]: [connect] Took 3,006ms to boot Connect
+[21:13:04] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:13:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:13:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:13:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:13:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:13:04] [Server thread/INFO]: Preparing level "world"
+[21:13:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:13:07] [Server thread/INFO]: Preparing spawn area: 0%
+[21:13:07] [Server thread/INFO]: Preparing spawn area: 0%
+[21:13:07] [Server thread/INFO]: Preparing spawn area: 0%
+[21:13:08] [Server thread/INFO]: Preparing spawn area: 0%
+[21:13:08] [Server thread/INFO]: Preparing spawn area: 0%
+[21:13:09] [Server thread/INFO]: Preparing spawn area: 0%
+[21:13:09] [Server thread/INFO]: Preparing spawn area: 0%
+[21:13:10] [Server thread/INFO]: Preparing spawn area: 0%
+[21:13:10] [Server thread/INFO]: Preparing spawn area: 0%
+[21:13:10] [Server thread/INFO]: Time elapsed: 4288 ms
+[21:13:10] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[21:13:11] [Server thread/INFO]: Preparing spawn area: 0%
+[21:13:11] [Server thread/INFO]: Preparing spawn area: 0%
+[21:13:11] [Server thread/INFO]: Preparing spawn area: 0%
+[21:13:12] [Server thread/INFO]: Preparing spawn area: 0%
+[21:13:12] [Server thread/INFO]: Preparing spawn area: 0%
+[21:13:13] [Server thread/INFO]: Time elapsed: 2412 ms
+[21:13:13] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[21:13:13] [Server thread/INFO]: Preparing spawn area: 0%
+[21:13:13] [Server thread/INFO]: Preparing spawn area: 0%
+[21:13:14] [Server thread/INFO]: Preparing spawn area: 0%
+[21:13:14] [Server thread/INFO]: Preparing spawn area: 0%
+[21:13:15] [Server thread/INFO]: Preparing spawn area: 0%
+[21:13:15] [Server thread/INFO]: Time elapsed: 2179 ms
+[21:13:15] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
+[21:13:15] [Server thread/INFO]: [ClearLag] Using version-adapter: LatestVersionAdapter
+[21:13:15] [Server thread/INFO]: [ClearLag] Loading modules...
+[21:13:15] [Server thread/WARN]: [ClearLag] Clearlag failed to use the internal TPS tracker during initialization. Reverted to estimation... (net.minecraft.server.v1_18_R1.MinecraftServer)
+[21:13:15] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[21:13:15] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[21:13:15] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[21:13:15] [Server thread/INFO]: [spark] Enabling spark v1.10.119
+[21:13:15] [Thread-4/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.18]...
+[21:13:16] [Thread-4/INFO]: [ClearLag] No updates found!
+[21:13:17] [Server thread/INFO]: [spark] Using Paper ServerTickStartEvent for tick monitoring
+[21:13:17] [Server thread/INFO]: [spark] Starting background profiler...
+[21:13:18] [Server thread/INFO]: [connect] Enabling connect v0.5.0
+[21:13:19] [Server thread/INFO]: [connect] Endpoint name: pvpv
+[21:13:19] [Server thread/INFO]: [connect] Your public address: pvpv.play.minekube.net
+[21:13:19] [Server thread/INFO]: Running delayed init tasks
+[21:13:19] [Server thread/INFO]: Done (20.762s)! For help, type "help"
+[21:13:19] [Server thread/INFO]: Timings Reset
+[21:13:24] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/27, uuid='4269a0e5-f5e7-4a82-9a85-d7a24b9e995b', l='ServerLevel[world]', x=-358.25, y=71.00, z=-343.82, cpos=[-23, -22], tl=23685, v=false]
+[21:13:24] [Server thread/WARN]: UUID of added entity already exists: EntityCow['Cow'/31, uuid='c0f49e48-3463-4a41-b0bf-5ea29b162a95', l='ServerLevel[world]', x=-344.34, y=70.00, z=-385.17, cpos=[-22, -25], tl=53683, v=false]
+[21:13:24] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/32, uuid='bb13290c-da26-4c4a-8c4b-9dfe19d6b19c', l='ServerLevel[world]', x=-342.27, y=71.00, z=-380.50, cpos=[-22, -24], tl=41684, v=false]
+[21:13:24] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/33, uuid='4269a0e5-f5e7-4a82-9a85-d7a24b9e995b', l='ServerLevel[world]', x=-345.57, y=72.00, z=-340.79, cpos=[-22, -22], tl=53685, v=false]
+[21:13:24] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/34, uuid='4269a0e5-f5e7-4a82-9a85-d7a24b9e995b', l='ServerLevel[world]', x=-347.85, y=72.00, z=-334.16, cpos=[-22, -21], tl=41686, v=false]
+[21:13:29] [OkHttp https://watch-connect.minekube.net/.../ERROR]: [connect] Connection error with WatchService: java.net.SocketTimeoutException: timeout (cause: java.net.SocketException: Socket closed)
+[21:13:29] [OkHttp https://watch-connect.minekube.net/.../INFO]: [connect] Trying to reconnect in 0.981s...
+[21:13:38] [OkHttp https://watch-connect.minekube.net/.../INFO]: [connect] Started watching for new player sessions
+[21:14:02] [Server thread/INFO]: There are 0 of a max of 20 players online: 
+[21:14:08] [Server thread/INFO]: Available subcommands are:
+
+firewall - Check if your outgoing firewall allows Floodgate to work properly
+[21:19:43] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[21:19:43] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[21:19:43] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:19:43] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:19:43] [Server thread/INFO]: [connect] Disabling connect v0.5.0
+[21:19:43] [Server thread/INFO]: [connect] Stopped watching for sessions
+[21:19:43] [Server thread/INFO]: [spark] Disabling spark v1.10.119
+[21:19:43] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
+[21:19:43] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[21:19:43] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[21:19:43] [Server thread/INFO]: Loaded 7 recipes
+[21:19:44] [Server thread/INFO]: [ClearLag] Loading ClearLag v3.2.2
+[21:19:44] [Server thread/INFO]: [spark] Loading spark v1.10.119
+[21:19:44] [Server thread/INFO]: [connect] Loading connect v0.5.0
+[21:19:45] [Server thread/WARN]: [connect] en_ is not a supported language.
+[21:19:45] [Server thread/INFO]: [connect] Took 831ms to boot Connect
+[21:19:45] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:19:45] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
+[21:19:45] [Server thread/INFO]: [ClearLag] Using version-adapter: LatestVersionAdapter
+[21:19:45] [Server thread/INFO]: [ClearLag] Loading modules...
+[21:19:45] [Server thread/WARN]: [ClearLag] Clearlag failed to use the internal TPS tracker during initialization. Reverted to estimation... (net.minecraft.server.v1_18_R1.MinecraftServer)
+[21:19:45] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[21:19:45] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[21:19:45] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[21:19:45] [Server thread/INFO]: [spark] Enabling spark v1.10.119
+[21:19:45] [Thread-17/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.18]...
+[21:19:46] [Thread-17/INFO]: [ClearLag] No updates found!
+[21:19:46] [Server thread/INFO]: [spark] Using Paper ServerTickStartEvent for tick monitoring
+[21:19:46] [Server thread/INFO]: [spark] Starting background profiler...
+[21:19:46] [Server thread/INFO]: [connect] Enabling connect v0.5.0
+[21:19:46] [Server thread/INFO]: [connect] Endpoint name: pvpv
+[21:19:46] [Server thread/INFO]: [connect] Your public address: pvpv.play.minekube.net
+[21:19:46] [Server thread/INFO]: CONSOLE: Reload complete.
+[21:19:46] [Server thread/INFO]: Timings Reset
+[21:19:54] [OkHttp https://watch-connect.minekube.net/.../INFO]: [connect] Started watching for new player sessions
+[21:19:58] [User Authenticator #1/INFO]: UUID of player luis_gamer_YT is 9dc2a27b-9407-321a-a0fa-62f4fdbaee88
+[21:19:58] [Server thread/INFO]: [connect] Connect tunneled player logged in as luis_gamer_YT (UUID: 9dc2a27b-9407-321a-a0fa-62f4fdbaee88)
+[21:19:58] [Server thread/INFO]: luis_gamer_YT joined the game
+[21:19:59] [Server thread/INFO]: luis_gamer_YT[/38.196.159.228:0] logged in with entity id 106 at ([world]-330.5, 78.0, -375.5)
+[21:22:19] [defaultEventLoopGroup-7-2/INFO]: [connect] Connect tunneled player luis_gamer_YT disconnected
+[21:22:19] [Server thread/INFO]: luis_gamer_YT lost connection: Disconnected
+[21:22:19] [Server thread/INFO]: luis_gamer_YT left the game
+[21:22:24] [User Authenticator #2/INFO]: UUID of player luis_gamer_YT is 9dc2a27b-9407-321a-a0fa-62f4fdbaee88
+[21:22:24] [Server thread/INFO]: [connect] Connect tunneled player logged in as luis_gamer_YT (UUID: 9dc2a27b-9407-321a-a0fa-62f4fdbaee88)
+[21:22:24] [Server thread/INFO]: luis_gamer_YT joined the game
+[21:22:24] [Server thread/INFO]: luis_gamer_YT[/38.196.159.228:0] logged in with entity id 562 at ([world]-352.44452935401165, 72.0, -331.30000001192093)
